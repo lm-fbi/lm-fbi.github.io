@@ -45,3 +45,6 @@ git clone --recursive https://github.com/amundsen-io/amundsen.git
 cd amundsen/
 # docker-compose -f docker-amundsen.yml up
 ```
+
+`sysctl -w vm.max_map_count=262144` is used to avoid the common docker compose error:  
+`es_amundsen | [1]: max virtual memory areas vm.max_map_count [65530] is too low, increase to at least [262144]`
