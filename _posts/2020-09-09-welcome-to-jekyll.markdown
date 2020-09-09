@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to LM FBI Dev!"
 date:   2020-09-09 00:22:45 +0200
 categories: jekyll update
 ---
