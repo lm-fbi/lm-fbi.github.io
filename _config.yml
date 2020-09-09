@@ -29,6 +29,7 @@ github_username:  lm-fbi
 
 # Build settings
 # theme: minima
+remote_theme: pmarsceill/just-the-docs
 theme: "just-the-docs"
 plugins:
   - jekyll-feed
