@@ -194,6 +194,12 @@ The sample data is now available. Try searching for `test` in the UI.
 
 To keep the Amundsen process running, you should not quit the Tmux session but detach from it with `Ctrl+b d`. You can now safely disconnect from the instance. Next time you connect to the instance, you can attach to the still running tmux session with `tmux a`.
 
+## Adding the Preview Feature
+
+This feature still need to be done. Following are the links for completing the setup.
+- "Preview Client Setup": https://www.amundsen.io/amundsen/frontend/docs/examples/superset_preview_client/
+- "Apache Superset Installation": https://superset.apache.org/docs/installation/installing-superset-using-docker-compose
+
 ## Related Articles
 
 - [AWS Docs: Creating, configuring, and deleting security groups for Amazon EC2](https://docs.aws.amazon.com/cli/latest/userguide/cli-services-ec2-sg.html)
